@@ -14,6 +14,11 @@ This project focuses on building a machine learning model to predict whether a n
 - Jupyter Notebook
 - Libraries: NumPy, Pandas, Scikit-learn, NLTK, Matplotlib, Seaborn
 
-To install the necessary libraries, use:
+# How to Run the Fake News Prediction Project
+
+## Step 1: Clone the Repository
+Start by cloning the project repository to your local machine.
+
 ```bash
-pip install numpy pandas scikit-learn nltk matplotlib seaborn
+git clone <repository_url>
+```
