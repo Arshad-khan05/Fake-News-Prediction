@@ -9,17 +9,19 @@ This project focuses on building a machine learning model to predict whether a n
 - Evaluation metrics such as accuracy, precision, and recall.
 - Real-time prediction functionality using pre-trained models.
 
-  ## Results
-  <table>
+## Results
+<table>
     <tr>
-        <td><img src="Output/Image01.png" alt="Example Image 1" style="width: 80%;"></td>
-        <td><img src="Output/Image02.png" alt="Example Image 2" style="width: 100%;"></td>
+        <td><img src="Output/Image01.png" alt="Example Image 1" style="width: 400px; height: 300px;"></td>
+        <td><img src="Output/Image02.png" alt="Example Image 2" style="width: 400px; height: 300px;"></td>
     </tr>
     <tr>
-        <td><img src="Output/Image03.png" alt="Example Image 3" style="width: 80%;"></td>
-        <td><img src="Output/Image04.png" alt="Example Image 4" style="width: 100%;"></td>
+        <td><img src="Output/Image03.png" alt="Example Image 3" style="width: 400px; height: 300px;"></td>
+        <td><img src="Output/Image04.png" alt="Example Image 4" style="width: 400px; height: 300px;"></td>
     </tr>
 </table>
+
+
 
 ## Requirements
 - Python 3.x
